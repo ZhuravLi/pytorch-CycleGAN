@@ -99,11 +99,7 @@ if __name__ == '__main__':
         gen_A2B.train()
         gen_B2A.train()
         
-        k = 0
         for batch in tqdm(dataloader, ncols=80, desc='Processing batch'):       
-            k += 1
-            if k > 3:
-                break     
             ########## Generators A2B and B2A ##########       
             optimizer_gen.zero_grad()
             
