@@ -60,7 +60,7 @@ Finally, testing:
 ```python
  python -m test --num_test 50
 ```
-Flag `--num_test 50` is responsible for the number of images generated in one direction. You may use `--cuda` for using GPU. You may change pathes to generator's weights, if you want to. Use `python -m test --help` to see more details.
+Flag `--num_test 50` is responsible for the number of images generated in one direction. You may use `--cuda` for using GPU. You may change paths to generator's weights, if you want to. Use `python -m test --help` to see more details.
 Result images are saved at `./output/testing`. After each test, this directory will be cleaned.
 
 ## Training
@@ -86,7 +86,7 @@ Finally, training:
  python -m train --start_epoch 0 --num_epochs 10 --cuda --n_cpu 2
 ```
 You may use `--cuda` for using GPU. Use `python -m train --help` to see more details.
-When model has done its work, your weights are saved in `checkpoints` and looks like this:
+When model has done its work, your weights are saved at `checkpoints` directory, that looks like this:
 
     .
     ├── checkpoints                   
@@ -112,12 +112,12 @@ When model has done its work, your weights are saved in `checkpoints` and looks 
     |   |   |   :
     |   |   |   └── losses_0010.pt 
 
-All weights after each epoch are saved. After that. you may continue you training, using previous weights.
+All weights after each epoch are saved. After that, you may continue your training using previous weights.
 
 ```python
  python -m train --start_epoch 10 --num_epochs 2 --cuda --n_cpu 2
 ```
-Result images are saved at `./output/training` after each epoch. Suggested total number of epoch is 100.
+Result images are saved at `./output/training` after each epoch.
 
 ## License
 
