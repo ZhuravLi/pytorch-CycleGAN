@@ -15,6 +15,70 @@ We use targets for real imgs in the discriminator with a value of 0.9.
 CycleGAN was trained on [monet2photo dataset](https://www.kaggle.com/datasets/balraj98/monet2photo) with 100 epochs and lr=2e-4.
 Here some results:
 
+### Monet --> Photo
+
+<div style="display: flex; gap: 20px">
+<div>
+<img src="./imgs/A2B/0138_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0138_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/A2B/0015_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0015_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/A2B/0016_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0016_fake.png" style="max-width: 150px">
+</div>
+</div>
+
+<div style="display: flex; gap: 20px">
+<div>
+<img src="./imgs/A2B/0127_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0127_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/A2B/0148_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0148_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/A2B/0029_real.png" style="max-width: 150px">
+<img src="./imgs/A2B/0029_fake.png" style="max-width: 150px">
+</div>
+</div>
+
+### Photo -> Monet
+
+<div style="display: flex; gap: 20px">
+<div>
+<img src="./imgs/B2A/0001_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0001_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/B2A/0009_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0009_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/B2A/0013_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0013_fake.png" style="max-width: 150px">
+</div>
+</div>
+
+<div style="display: flex; gap: 20px">
+<div>
+<img src="./imgs/B2A/0102_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0102_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/B2A/0199_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0199_fake.png" style="max-width: 150px">
+</div>
+<div>
+<img src="./imgs/B2A/0024_real.png" style="max-width: 150px">
+<img src="./imgs/B2A/0024_fake.png" style="max-width: 150px">
+</div>
+</div>
+
 ## Installation
 Clone the repo
 
