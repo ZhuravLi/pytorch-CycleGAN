@@ -18,49 +18,49 @@ Here some results:
 ### Monet --> Photo
 
 <div>
-<img src="./imgs/A2B/0138_real.png" height="150" width="150">
-<img src="./imgs/A2B/0138_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0138_real.png" height="128" width="128">
+<img src="./imgs/A2B/0138_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/A2B/0015_real.png" height="150" width="150">
-<img src="./imgs/A2B/0015_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0015_real.png" height="128" width="128">
+<img src="./imgs/A2B/0015_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/A2B/0016_real.png" height="150" width="150">
-<img src="./imgs/A2B/0016_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0016_real.png" height="128" width="128">
+<img src="./imgs/A2B/0016_fake.png" height="128" width="128">
 </div>
 
 <div>
-<img src="./imgs/A2B/0127_real.png" height="150" width="150">
-<img src="./imgs/A2B/0127_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0127_real.png" height="128" width="128">
+<img src="./imgs/A2B/0127_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/A2B/0148_real.png" height="150" width="150">
-<img src="./imgs/A2B/0148_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0148_real.png" height="128" width="128">
+<img src="./imgs/A2B/0148_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/A2B/0029_real.png" height="150" width="150">
-<img src="./imgs/A2B/0029_fake.png" height="150" width="150">
+<img src="./imgs/A2B/0029_real.png" height="128" width="128">
+<img src="./imgs/A2B/0029_fake.png" height="128" width="128">
 </div>
 
 ### Photo -> Monet
 
 <div>
-<img src="./imgs/B2A/0001_real.png" height="150" width="150">
-<img src="./imgs/B2A/0001_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0001_real.png" height="128" width="128">
+<img src="./imgs/B2A/0001_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/B2A/0009_real.png" height="150" width="150">
-<img src="./imgs/B2A/0009_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0009_real.png" height="128" width="128">
+<img src="./imgs/B2A/0009_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/B2A/0013_real.png" height="150" width="150">
-<img src="./imgs/B2A/0013_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0013_real.png" height="128" width="128">
+<img src="./imgs/B2A/0013_fake.png" height="128" width="128">
 </div>
 
 <div>
-<img src="./imgs/B2A/0102_real.png" height="150" width="150">
-<img src="./imgs/B2A/0102_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0102_real.png" height="128" width="128">
+<img src="./imgs/B2A/0102_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/B2A/0199_real.png" height="150" width="150">
-<img src="./imgs/B2A/0199_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0199_real.png" height="128" width="128">
+<img src="./imgs/B2A/0199_fake.png" height="128" width="128">
 &nbsp;
-<img src="./imgs/B2A/0024_real.png" height="150" width="150">
-<img src="./imgs/B2A/0024_fake.png" height="150" width="150">
+<img src="./imgs/B2A/0024_real.png" height="128" width="128">
+<img src="./imgs/B2A/0024_fake.png" height="128" width="128">
 </div>
 
 ## Installation
