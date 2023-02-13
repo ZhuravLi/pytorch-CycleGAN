@@ -1,6 +1,6 @@
 # pytorch-CycleGAN
 
-This is my implementation of CycleGAN using PyTorch, the final project for DLS MIPT course. 
+This is my final project for DLS MIPT course, the implementation of CycleGAN using PyTorch.
 [About CycleGANs](https://hardikbansal.github.io/CycleGANBlog/),
 [Link to the original article](https://arxiv.org/abs/1703.10593). 
 
@@ -17,67 +17,43 @@ Here some results:
 
 ### Monet --> Photo
 
-<div style="display: flex; gap: 20px">
-<div>
-<img src="./imgs/A2B/0138_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0138_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/A2B/0015_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0015_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/A2B/0016_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0016_fake.png" style="max-width: 150px">
-</div>
-</div>
+<img src="./imgs/A2B/0138_real.png" height="150" width="150">
+<img src="./imgs/A2B/0138_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/A2B/0015_real.png" height="150" width="150">
+<img src="./imgs/A2B/0015_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/A2B/0016_real.png" height="150" width="150">
+<img src="./imgs/A2B/0016_fake.png" height="150" width="150">
 
-<div style="display: flex; gap: 20px">
-<div>
-<img src="./imgs/A2B/0127_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0127_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/A2B/0148_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0148_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/A2B/0029_real.png" style="max-width: 150px">
-<img src="./imgs/A2B/0029_fake.png" style="max-width: 150px">
-</div>
-</div>
+<img src="./imgs/A2B/0127_real.png" height="150" width="150">
+<img src="./imgs/A2B/0127_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/A2B/0148_real.png" height="150" width="150">
+<img src="./imgs/A2B/0148_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/A2B/0029_real.png" height="150" width="150">
+<img src="./imgs/A2B/0029_fake.png" height="150" width="150">
 
 ### Photo -> Monet
 
-<div style="display: flex; gap: 20px">
-<div>
-<img src="./imgs/B2A/0001_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0001_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/B2A/0009_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0009_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/B2A/0013_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0013_fake.png" style="max-width: 150px">
-</div>
-</div>
+<img src="./imgs/B2A/0001_real.png" height="150" width="150">
+<img src="./imgs/B2A/0001_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/B2A/0009_real.png" height="150" width="150">
+<img src="./imgs/B2A/0009_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/B2A/0013_real.png" height="150" width="150">
+<img src="./imgs/B2A/0013_fake.png" height="150" width="150">
 
-<div style="display: flex; gap: 20px">
-<div>
-<img src="./imgs/B2A/0102_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0102_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/B2A/0199_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0199_fake.png" style="max-width: 150px">
-</div>
-<div>
-<img src="./imgs/B2A/0024_real.png" style="max-width: 150px">
-<img src="./imgs/B2A/0024_fake.png" style="max-width: 150px">
-</div>
-</div>
+<img src="./imgs/B2A/0102_real.png" height="150" width="150">
+<img src="./imgs/B2A/0102_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/B2A/0199_real.png" height="150" width="150">
+<img src="./imgs/B2A/0199_fake.png" height="150" width="150">
+&nbsp;
+<img src="./imgs/B2A/0024_real.png" height="150" width="150">
+<img src="./imgs/B2A/0024_fake.png" height="150" width="150">
 
 ## Installation
 Clone the repo
