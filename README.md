@@ -63,6 +63,14 @@ Here some results:
 <img src="./imgs/B2A/0024_fake.png" height="128" width="128">
 </div>
 
+Here the losses:
+
+<img src="./imgs/losses.png">
+
+During the training, discriminator that differs real Monet pics from generated ones is doing his job too well. 
+This leads to not good enough performance of generator that creates fake Monet painting.
+(Unlike the second generator that creates fake realistic photo. It has done its job pretty well.)
+
 ## Installation
 Clone the repo
 
